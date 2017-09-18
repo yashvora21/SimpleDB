@@ -1,0 +1,2 @@
+Command to run server:
+java -cp /Users/darshanypatel/Documents/workspace/SimpleDB simpledb.server.Startup simpleDB
